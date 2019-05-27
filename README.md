@@ -4,7 +4,7 @@ This is a git repo built solely for testing purpose.
 ## How To Play : 
 
  #### 1. Setup :
-* Download Game.c file 
+  ###### 1.1 Download Game.c file 
 * Compile on linux machine using gcc compiler by running the command
 ```  gcc Game.c  ```
   * In case you get error like ```gcc not found, but can be installed with ...``` run the following command
@@ -14,7 +14,7 @@ This is a git repo built solely for testing purpose.
 * Now once the object file is created, simply execute your object file using ```./a.out```. This commands excecutes an executable file named a.out in current directory.
 * The details of playing are provided [below](####-2.-play-). In case you like the game but don't like to go the specific directory every time to compile and execute, you may add the compiled object file to the path of environment variables. Follow the below steps for the same : 
     
-    #### 1.1 Make the game accessible from any directory :
+    #### 1.2 Make the game accessible from any directory :
     * Compile Game.c file using the steps explained above using a name other than a.out . The other name is important so that in future if you compile and run some other code, your machine is not confused as which a.out should be executed. 
     * Run the following command ```sudo mv FILE_NAME /usr/bin/``` and then enter your password if required. This basically moves your object file to a directory named bin where many globally accessible executable files are stored. 
     * Now you can execute your object file from any location by just typing FILE_NAME on your command line.
@@ -30,4 +30,4 @@ This is a git repo built solely for testing purpose.
         * In this version of game, there are 5 rows and 5 columns. The player has to pick a column that isn't full. The lowest empty space in that column will be occupied by him.
         * The first player to occupy any 4 consecutive places in any 8 possible direction wins. 
         * In case of tie, no player is declared winner.
-        * ![Screenshot from 2019-05-07 17-15-58](https://user-images.githubusercontent.com/49042740/58409514-d8f21a80-808d-11e9-9cdd-becaa104a212.png)
+
