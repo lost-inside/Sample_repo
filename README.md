@@ -1,7 +1,7 @@
 This is a git repo built solely for testing purpose.
 *Please ignore it.*
 
-## How To Play : 
+## How To Play : ✌️😊
 
  #### 1. Setup :
   ##### 1.1 Download Game.c file ⬇️
