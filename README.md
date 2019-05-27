@@ -3,7 +3,7 @@ This is a git repo built solely for testing purpose.
 
 ## How To Play : 
 
-    #### Setup :
+   #### Setup :
 * Download Game.c file 
 * Compile on linux machine using gcc compiler by running the command
 ```  gcc Game.c  ```
