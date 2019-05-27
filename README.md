@@ -1,8 +1,8 @@
-# text_based_adventure_game
+# Text_Based_Adventure_Game
 
   > A text based adventure game built using Python.
 
-### Concepts used : 
+### Concepts used : :pencil:
   - Class , file handling , and other basics like loop , dictionary ,list, string and its methods, random e.t.c
   
 ### Overview : 
