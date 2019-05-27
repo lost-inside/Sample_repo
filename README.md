@@ -30,3 +30,4 @@ This is a git repo built solely for testing purpose.
         * In this version of game, there are 5 rows and 5 columns. The player has to pick a column that isn't full. The lowest empty space in that column will be occupied by him.
         * The first player to occupy any 4 consecutive places in any 8 possible direction wins. 
         * In case of tie, no player is declared winner.
+        * ![Screenshot from 2019-05-07 17-15-58](https://user-images.githubusercontent.com/49042740/58409514-d8f21a80-808d-11e9-9cdd-becaa104a212.png)
