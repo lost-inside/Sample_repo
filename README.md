@@ -4,8 +4,9 @@ This is a git repo built solely for testing purpose.
 ## How To Play : 
 
  #### 1. Setup :
-  ##### 1.1 Download Game.c file :champagne: 🎉
+  ##### 1.1 Download Game.c file 
   * Download the file by using the given command ```git clone https://github.com/harshraj22/four_in_a_row.git ``` . This creates a local coppy of this git repository on your local machine. Now move to created directory by typing ``` cd four_in_a_row ```
+  :champagne: 🎉 Congrats !! You successfully installed the file to your local repository .
   
 * Compile on linux machine using gcc compiler by running the command
 ```  gcc Game.c  ```
