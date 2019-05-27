@@ -1,7 +1,7 @@
 This is a git repo built solely for testing purpose.
 *Please ignore it.*
 
-## How To Play : ❓
+## How To Play : 
 
  #### 1. Setup :
   ##### 1.1 Download Game.c file ⬇️
@@ -27,7 +27,7 @@ This is a git repo built solely for testing purpose.
     
     
     
- #### 2. Play :
+ #### 2. Play : ▶️
    * The game requires two players who have to enter their name after executing the object file. The first three letters of their name should be diffrent to avoid confusion.
      ##### 2.1 Rules :
         * The first player to enter name takes first turn and then both play alternate turns. 
