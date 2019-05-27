@@ -3,4 +3,6 @@ This is a git repo built solely for testing purpose.
 
 ## How To Play : 
 * Download Game.c file 
-* Compile on linux machine using gcc compiler ``` ( gcc Game.c ) ```
+* Compile on linux machine using gcc compiler
+``` ( gcc Game.c ) ```
+  * In case you get erroor
