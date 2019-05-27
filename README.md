@@ -19,4 +19,8 @@ This is a git repo built solely for testing purpose.
     * Run the following command ```sudo mv FILE_NAME /usr/bin/``` and then enter your password if required. This basically moves your object file to a directory named bin where many globally accessible executable files are stored. 
     * Now you can execute your object file from any location by just typing FILE_NAME on your command line.
     * Anytime you feel to remove the file from the folder of globally executables, type the following command 
-    ``` sudo rm /usr/bin/FILE_NAME ``` followed by your password. Note that after using this command, you will no longer be able to run your object file from any director just by typing FILE_NAME on the command line unless you add the file to any one of the locations contained in PATH variable. More details about PATH variable can be found [ here ]( https://stackoverflow.com/questions/37676849/where-is-path-variable-set-in-ubuntu )
+    ``` sudo rm /usr/bin/FILE_NAME ``` followed by your password. Note that after using this command, you will no longer be able to run your object file from any director just by typing FILE_NAME on the command line unless you add the file to any one of the locations contained in PATH variable. More details about PATH variable can be found [ here ]( https://stackoverflow.com/questions/37676849/where-is-path-variable-set-in-ubuntu ).
+    
+    
+    
+ #### 2. Play :
