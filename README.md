@@ -4,7 +4,7 @@ This is a git repo built solely for testing purpose.
 ## How To Play : 
 
  #### 1. Setup :
-  ###### 1.1 Download Game.c file 
+  ##### 1.1 Download Game.c file 
 * Compile on linux machine using gcc compiler by running the command
 ```  gcc Game.c  ```
   * In case you get error like ```gcc not found, but can be installed with ...``` run the following command
