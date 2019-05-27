@@ -14,5 +14,8 @@ This is a git repo built solely for testing purpose.
 * Now once the object file is created, simply execute your object file using ```./a.out```. This commands excecutes an executable file named a.out in current directory.
 * The details of playing are provided below. In case you like the game but don't like to go the specific directory every time to compile and execute, you may add the compiled object file to the path of environment variables. Follow the below steps for the same : 
     
-    #### Make the game accessible from any directory :
-    *
+    #### 1.1 Make the game accessible from any directory :
+    * Compile Game.c file using the steps explained above using a name other than a.out . The other name is important so that in future if you compile and run some other code, your machine is not confused as which a.out should be executed. 
+    * Run the following command ```sudo mv FILE_NAME /usr/bin/``` and then enter your password if required. This basically moves your object file to a directory named bin where many globally accessible executable files are stored. 
+    * Now you can execute your object file from any location by just typing FILE_NAME on your command line.
+    * Anytime you feel to remove the file from the folder of globally executables, type the following command ``` sudo rm /usr/bin/FILE_NAME ``` followed by your password. Note that after using this command, you will no longer be able to run your object file from any director just by typing FILE_NAME on the command line unless you add the file to any one of the locations contained in PATH variable. 
