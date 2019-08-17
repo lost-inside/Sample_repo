@@ -1,2 +1,2 @@
-x=input('say your name')
-print('Hello {}').format(x)
+x=input('say your name ')
+print('Hello {}'.format(x))
