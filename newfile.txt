@@ -3,7 +3,7 @@ This is the new file for testing purpose again. Feel free to ignore this reposit
 Gaaine , oh sorry , I meant to say fine, sounds cool to know that it is a file for testing purpose only . See you soon . insert:wq
 
  and have a look at theis 
-fine, now I am making some changes in test branch in the remote repository. Check the effect on local repository.
+fine, now I am making some good looking changes in test branch in the remote repository. Check the effect on local repository.
 
 ....____ 
 
